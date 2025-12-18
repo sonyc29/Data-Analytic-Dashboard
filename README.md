@@ -11,3 +11,10 @@ The objective of this project is to analyze the Swiggy food delivery dataset to 
 - Power BI (Dashboard & reporting)
 - Excel / CSV datasets
 - Git & GitHub
+
+### Features
+- Data cleaning and preprocessing
+- KPI tracking and performance metrics
+- Interactive charts and filters
+- Trend and comparative analysis
+- User-friendly dashboard layout
