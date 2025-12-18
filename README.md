@@ -1,2 +1,4 @@
-# Data-Analytic-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved  several stages, including data preprocessing, data cleansing, and data visualization.
+# Swiggy-Data Analytics (Interactive Dashboard creation using Power BI)
+## Project Objective
+The objective of this project is to analyze the Swiggy food delivery dataset to gain insights into customer ordering behavior, restaurant performance, and delivery efficiency. Using Python, SQL, and Power BI, the project focuses on transforming raw data into interactive visualizations and key performance indicators (KPIs) to support data-driven decision-making.
+
