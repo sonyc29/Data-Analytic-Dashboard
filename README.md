@@ -2,3 +2,5 @@
 ## Project Objective
 The objective of this project is to analyze the Swiggy food delivery dataset to gain insights into customer ordering behavior, restaurant performance, and delivery efficiency. Using Python, SQL, and Power BI, the project focuses on transforming raw data into interactive visualizations and key performance indicators (KPIs) to support data-driven decision-making.
 
+## Dataset used
+- <a href="https://github.com/sonyc29/Data-Analytic-Dashboard/blob/main/swiggy_cleaned.csv">Dataset</a>
