@@ -4,3 +4,10 @@ The objective of this project is to analyze the Swiggy food delivery dataset to 
 
 ## Dataset used
 - <a href="https://github.com/sonyc29/Data-Analytic-Dashboard/blob/main/swiggy_cleaned.csv">Dataset</a>
+
+### Tools & Technologies
+- Python (Pandas, NumPy)
+- SQL (Data extraction & transformation)
+- Power BI (Dashboard & reporting)
+- Excel / CSV datasets
+- Git & GitHub
