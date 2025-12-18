@@ -19,4 +19,6 @@ The objective of this project is to analyze the Swiggy food delivery dataset to 
 - Trend and comparative analysis
 - User-friendly dashboard layout
 
-- Dashboard Interation <a href="https://github.com/sonyc29/Data-Analytic-Dashboard/blob/main/Screenshot%202025-12-10%20202734.png">View Dashboard</a>
+## Dashboard
+
+<img width="1895" height="1001" alt="Screenshot 2025-12-10 202734" src="https://github.com/user-attachments/assets/e72dad84-e23c-4a72-850c-48e4a05b17d5" />
